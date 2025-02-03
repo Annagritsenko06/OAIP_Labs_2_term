@@ -1,0 +1,29 @@
+﻿Сборка начата 08.05.2024 15:01:50.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\laba 10\laba 10.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\laba 10.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\laba 10.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "laba 10.cpp"
+         laba 10.cpp
+     1>C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\laba 10\laba 10.cpp(20): warning C4715: A: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\Debug\laba 10.exe" /INCREMENTAL /ILK:"Debug\laba 10.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\Debug\laba 10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\Debug\laba 10.lib" /MACHINE:X86 "Debug\laba 10.obj"
+         laba 10.vcxproj -> C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\Debug\laba 10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba 10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba 10.tlog\laba 10.lastbuildstate".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\laba 10\laba 10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\laba 10\laba 10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\admin\Documents\уник\оаип 2 сем\laba 10\laba 10\laba 10\laba 10.cpp(20): warning C4715: A: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.89

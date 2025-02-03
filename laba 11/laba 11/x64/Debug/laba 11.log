@@ -1,0 +1,23 @@
+﻿Сборка начата 08.05.2024 18:20:30.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\laba 11\laba 11.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\laba 11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\laba 11.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "laba 11.cpp"
+         laba 11.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\x64\Debug\laba 11.exe" /INCREMENTAL /ILK:"x64\Debug\laba 11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\x64\Debug\laba 11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\x64\Debug\laba 11.lib" /MACHINE:X64 "x64\Debug\laba 11.obj"
+         laba 11.vcxproj -> C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\x64\Debug\laba 11.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\laba 11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\laba 11.tlog\laba 11.lastbuildstate".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\оаип 2 сем\laba 11\laba 11\laba 11\laba 11.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.05
