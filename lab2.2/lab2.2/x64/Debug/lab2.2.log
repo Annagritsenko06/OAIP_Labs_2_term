@@ -1,0 +1,4 @@
+﻿  2zadanie.cpp
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2.2\lab2.2\2zadanie.cpp(26,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2.2\lab2.2\2zadanie.cpp(11,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2.2\lab2.2\2zadanie.cpp(19,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

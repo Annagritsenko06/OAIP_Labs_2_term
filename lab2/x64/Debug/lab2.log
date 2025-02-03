@@ -1,0 +1,10 @@
+﻿  1zadanie.cpp
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2\1zadanie.cpp(10,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2\1zadanie.cpp(10,10):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2\1zadanie.cpp(10,10):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\lab2\1zadanie.cpp(10,10):
+  этот аргумент используется в качестве размера буфера
+  
+  lab2.vcxproj -> C:\Users\admin\Documents\уник\оаип 2 сем\laba 2\lab2\x64\Debug\lab2.exe
