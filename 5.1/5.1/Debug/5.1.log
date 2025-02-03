@@ -1,0 +1,8 @@
+﻿  1 zadanie.cpp
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(117,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(720,21): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(743,5): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(32): warning C4715: isFractional: значение возвращается не при всех путях выполнения
+C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\5.1\1 zadanie.cpp(673): warning C4715: bodytprint: значение возвращается не при всех путях выполнения
+  5.1.vcxproj -> C:\Users\admin\Documents\уник\оаип 2 сем\laba 5\5.1\5.1\Debug\5.1.exe
